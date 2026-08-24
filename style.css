@@ -154,14 +154,18 @@ h1 .accent {
   margin-top: var(--space-l);
 }
 
-.availability {
+.location p {
   margin: 0;
 
   color: var(--text-muted);
   font-family: "Inter", sans-serif;
-  font-size: 14px;
-  line-height: 22px;
+  font-size: 13px;
+  line-height: 20px;
   font-weight: 400;
+}
+
+.location p + p {
+  margin-top: 2px;
 }
 
 /* Footer */
