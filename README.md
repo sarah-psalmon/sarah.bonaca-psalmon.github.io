@@ -21,7 +21,7 @@ The website is based on a custom design system created in Figma, with a focus on
 ## Links
 
 - Portfolio: coming soon
-- LinkedIn: [Sarah Bonaca-Psalmon](https://www.linkedin.com/in/sarah-bonaca/))
+- LinkedIn: [Sarah Bonaca-Psalmon](https://www.linkedin.com/in/sarah-bonaca/)
 
 ---
 
