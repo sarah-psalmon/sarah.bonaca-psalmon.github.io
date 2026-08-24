@@ -135,7 +135,24 @@ h1 .accent {
   color: var(--accent-burgundy);
 }
 
+/* Portfolio status */
+
+.status {
+  margin: 0;
+
+  font-size: 16px;
+  line-height: 28px;
+}
+
+.status strong {
+  font-weight: 700;
+}
+
 /* Location / international positioning */
+
+.location {
+  margin-top: var(--space-xl);
+}
 
 .location-label {
   margin: 0 0 var(--space-xs);
@@ -152,27 +169,6 @@ h1 .accent {
   font-size: 28px;
   line-height: 36px;
   font-weight: 600;
-}
-
-/* Supporting copy */
-
-.intro {
-  margin: var(--space-xl) 0 0;
-
-  color: var(--text-secondary);
-  font-size: 16px;
-  line-height: 28px;
-}
-
-.status {
-  margin: var(--space-xl) 0 0;
-
-  font-size: 14px;
-  line-height: 22px;
-}
-
-.status strong {
-  font-weight: 700;
 }
 
 /* Footer */
@@ -246,13 +242,6 @@ h1 .accent {
   .availability {
     font-size: 24px;
     line-height: 32px;
-  }
-
-  .intro {
-    margin-top: var(--space-l);
-
-    font-size: 16px;
-    line-height: 28px;
   }
 
   .status {
